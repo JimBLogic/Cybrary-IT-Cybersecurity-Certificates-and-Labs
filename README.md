@@ -28,12 +28,10 @@
 | Vulnerability Scanner Basics    | 13/07/2024      |
 
 
-## About Cybrary
-Cybrary's hands-on cybersecurity courses and training empower professionals to protect organizations effectively. With curated Skill and Career Paths, threat-informed training, and industry-aligned Certification Preparation courses, Cybrary is a leader in cybersecurity education.
+## Why Cybrary?
+Cybrary’s interactive courses will enable me to build real-world skills, providing tools and resources to address today’s cybersecurity challenges. From mastering fundamentals to preparing for certifications, Cybrary is pivotal in my growth.
 
----
-
-_This README.md provides a direct overview of my learning journey, skills, projects, and tools acquired through Cybrary's IT and Cybersecurity Foundations - Learn program. You can explore my credentials and achievements further on my Cybrary profile._
+_This README reflects my personal learning journey, highlighting projects and certifications._
 
 
 
