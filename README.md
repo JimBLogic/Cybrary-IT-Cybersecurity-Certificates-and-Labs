@@ -16,7 +16,8 @@
 
 ## Labs and Certificates
 
-| Lab Name                        | Completion Date |
+| Lab Name                           | Completion Date |
+| ----------------------------------- | --------------- |
 | Group Policy Basics             | 16/10/2024      |
 | Cryptography Basics             | 15/10/2024      |
 | Patching Basics                 | 15/10/2024      |
