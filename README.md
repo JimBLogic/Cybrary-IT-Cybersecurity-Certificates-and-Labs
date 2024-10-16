@@ -14,6 +14,10 @@
 - Patching Basics
 - Vulnerability Scanner Basics
 
+### Network Fundamentals
+
+### Scripting and Programming Fundamentals
+
 ## Labs and Certificates
 
 | Lab Name                           | Completion Date |
@@ -24,5 +28,12 @@
 | Vulnerability Scanner Basics    | 13/07/2024      |
 
 
+## About Cybrary
+Cybrary's hands-on cybersecurity courses and training empower professionals to protect organizations effectively. With curated Skill and Career Paths, threat-informed training, and industry-aligned Certification Preparation courses, Cybrary is a leader in cybersecurity education.
 
-This career path providedsme with the foundational knowledge necessary for a career in cybersecurity. It covered Operating System Fundamentals, Network Fundamentals, Cybersecurity Fundamentals, and Programming and Scripting Fundamentals through 25+ modules.
+---
+
+_This README.md provides a direct overview of my learning journey, skills, projects, and tools acquired through Cybrary's IT and Cybersecurity Foundations - Learn program. You can explore my credentials and achievements further on my Cybrary profile._
+
+
+
