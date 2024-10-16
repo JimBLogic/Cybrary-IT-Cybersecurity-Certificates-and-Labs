@@ -1,7 +1,7 @@
 # Cybrary-IT-and-Cybersecurity-Foundations
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
 
-[![cybrary-cert-it-and-cybersecurity-foundations](https://app.cybrary.it/profile/JimBLogic?tab=badges)]
+[Visit My Badges](https://app.cybrary.it/profile/JimBLogic?tab=badges)
 
 
 ## Skills/Knowledge Gained
