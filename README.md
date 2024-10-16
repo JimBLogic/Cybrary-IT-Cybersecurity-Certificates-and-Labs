@@ -1,4 +1,4 @@
-# Cybrary-IT-and-Cybersecurity-Foundations
+# Cybrary IT and Cybersecurity Foundations
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
 
 [Visit My Badges](https://app.cybrary.it/profile/JimBLogic?tab=badges)
