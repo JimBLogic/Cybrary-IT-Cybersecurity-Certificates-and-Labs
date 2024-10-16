@@ -1,6 +1,9 @@
 # Cybrary-IT-and-Cybersecurity-Foundations
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
 
+[![cybrary-cert-it-and-cybersecurity-foundations](https://github.com/user-attachments/assets/5344db5d-571f-46a5-a238-6849ba8dafc6)](https://app.cybrary.it/profile/JimBLogic?tab=badges)
+
+
 ## Skills/Knowledge Gained
 
 ### Operating System Fundamentals
