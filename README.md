@@ -34,6 +34,8 @@
 ## Why Cybrary?
 Cybrary’s interactive courses will enable me to build real-world skills, providing tools and resources to address today’s cybersecurity challenges. From mastering fundamentals to preparing for certifications, Cybrary is pivotal in my growth.
 
+---
+
 _This README reflects my personal learning journey, highlighting projects and certifications._
 
 
