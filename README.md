@@ -8,6 +8,12 @@
 
 ### Operating System Fundamentals
 - Group Policy Basics
+- Windows CLI Basics
+- Linux CLI Basics
+- Windows File System Basics
+- Linux File System Basics
+- Windows Services
+- Active Directory Basics
 
 ### Cybersecurity Fundamentals
 - Cryptography Basics
@@ -16,13 +22,25 @@
   - Cryptographic Hash Functions
 - Patching Basics
 - Vulnerability Scanner Basics
-
+- Access Control Basics
+- IDS Basics
+- Firewall Basics
+- Data Backup and Recovery Basics
+- Antivirus Basics
 
 ### Network Fundamentals
-
-
+- Network Reference Models
+- Network Device Basics
+- IP Addressing Basics
+- Wireshark Basics
+- Nmap Basics
+- VPN Basics
+- Network Troubleshooting Basics
+  
 ### Scripting and Programming Fundamentals
-
+- BASH Scripting Basics
+- PowerShell Basics
+- Python Basics
 
 ## Certificates
 
