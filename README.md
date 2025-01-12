@@ -28,6 +28,9 @@
 
 | Lab Name                           | Completion Date |
 | ----------------------------------- | --------------- |
+| Access Control Basics           | 16/10/2024      |
+| IP Addressing Basics            | 16/10/2024      |
+| Firewall Basics                 | 16/10/2024      |
 | Group Policy Basics             | 16/10/2024      |
 | Cryptography Basics             | 15/10/2024      |
 | Patching Basics                 | 15/10/2024      |
