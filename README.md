@@ -24,17 +24,26 @@
 ### Scripting and Programming Fundamentals
 
 
-## Labs and Certificates
+## Certificates
 
 | Lab Name                           | Completion Date |
 | ----------------------------------- | --------------- |
-| Access Control Basics           | 16/10/2024      |
-| IP Addressing Basics            | 16/10/2024      |
-| Firewall Basics                 | 16/10/2024      |
+| Access Control Basics           | 01/08/2025      |
+| IP Addressing Basics            | 10/24/2024      |
+| Firewall Basics                 | 10/24/2024      |
 | Group Policy Basics             | 16/10/2024      |
 | Cryptography Basics             | 15/10/2024      |
 | Patching Basics                 | 15/10/2024      |
 | Vulnerability Scanner Basics    | 13/07/2024      |
+
+
+| Course Name                         | Completion Date |
+| ----------------------------------- | --------------- |
+| Security+: Security Program Management and Oversight           | 10/015/2025      |
+| Security+: Security Operations            | 09/18/2024      |
+| Security+: Security Architecture                 | 08/19/2024      |
+| Security+: Threats, Vulnerabilities and Mitigations             | 08/16/2024      |
+| Security+: General Security Concepts             | 08/13/2024      |
 
 
 ## Highlights of My Learning Journey
