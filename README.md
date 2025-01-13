@@ -3,6 +3,26 @@
 
 [Visit My Badges](https://app.cybrary.it/profile/JimBLogic?tab=badges)
 
+## Certificates
+
+| Lab Name                           | Completion Date |
+| ----------------------------------- | --------------- |
+| [Access Control Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-access-control-basics.pdf)       | 01/08/2025      |
+| [IP Addressing Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-ip-addressing-basics.pdf)            | 10/24/2024      |
+| [Firewall Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-firewall-basics.pdf)                 | 10/24/2024      |
+| [Group Policy Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-group-policy-basics.pdf)             | 16/10/2024      |
+| [Cryptography Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-cryptography-basics.pdf)             | 15/10/2024      |
+| [Patching Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-patching-basics.pdf)                 | 15/10/2024      |
+| [Vulnerability Scanner Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-threats-vulnerabilities-and-mitigations.pdf)    | 13/07/2024      |
+
+
+| Course Name                         | Completion Date |
+| ----------------------------------- | --------------- |
+| [Security+: Security Program Management and Oversight](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-program-management-and-oversight.pdf)           | 10/015/2025      |
+| Security+: Security Operations            | 09/18/2024      |
+| [Security+: Security Architecture](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-architecture.pdf)                 | 08/19/2024      |
+| [Security+: Threats, Vulnerabilities and Mitigations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-vulnerability-scanner-basics.pdf)             | 08/16/2024      |
+| [Security+: General Security Concepts](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-general-security-concepts.pdf)             | 08/13/2024      |
 
 ## Skills/Knowledge Gained
 
@@ -41,27 +61,6 @@
 - BASH Scripting Basics
 - PowerShell Basics
 - Python Basics
-
-## Certificates
-
-| Lab Name                           | Completion Date |
-| ----------------------------------- | --------------- |
-| [Access Control Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-access-control-basics.pdf)       | 01/08/2025      |
-| IP Addressing Basics            | 10/24/2024      |
-| Firewall Basics                 | 10/24/2024      |
-| Group Policy Basics             | 16/10/2024      |
-| Cryptography Basics             | 15/10/2024      |
-| Patching Basics                 | 15/10/2024      |
-| Vulnerability Scanner Basics    | 13/07/2024      |
-
-
-| Course Name                         | Completion Date |
-| ----------------------------------- | --------------- |
-| Security+: Security Program Management and Oversight           | 10/015/2025      |
-| Security+: Security Operations            | 09/18/2024      |
-| Security+: Security Architecture                 | 08/19/2024      |
-| Security+: Threats, Vulnerabilities and Mitigations             | 08/16/2024      |
-| Security+: General Security Concepts             | 08/13/2024      |
 
 
 ## Highlights of My Learning Journey
