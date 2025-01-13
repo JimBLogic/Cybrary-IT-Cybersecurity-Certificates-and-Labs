@@ -1,5 +1,5 @@
 # Cybrary IT & Cybersecurity Foundations -Learn
-Welcome to my Cybrary IT & Cybersecurity Foundastions learning journey! This repository documents my progress, achievements, and reflections as I navigate the courses and pathways.
+Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repository documents my progress, achievements, and reflections as I navigate the courses and pathways.
 
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
 
