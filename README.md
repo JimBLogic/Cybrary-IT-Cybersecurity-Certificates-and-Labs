@@ -46,7 +46,7 @@
 
 | Lab Name                           | Completion Date |
 | ----------------------------------- | --------------- |
-| Access Control Basics           | 01/08/2025      |
+| [Access Control Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-access-control-basics.pdf)       | 01/08/2025      |
 | IP Addressing Basics            | 10/24/2024      |
 | Firewall Basics                 | 10/24/2024      |
 | Group Policy Basics             | 16/10/2024      |
