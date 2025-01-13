@@ -19,7 +19,7 @@
 | Course Name                         | Completion Date |
 | ----------------------------------- | --------------- |
 | [Security+: Security Program Management and Oversight](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-program-management-and-oversight.pdf)           | 10/015/2025      |
-| Security+: Security Operations            | 09/18/2024      |
+| [Security+: Security Operations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-operations.pdf)            | 09/18/2024      |
 | [Security+: Security Architecture](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-architecture.pdf)                 | 08/19/2024      |
 | [Security+: Threats, Vulnerabilities and Mitigations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-vulnerability-scanner-basics.pdf)             | 08/16/2024      |
 | [Security+: General Security Concepts](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-general-security-concepts.pdf)             | 08/13/2024      |
