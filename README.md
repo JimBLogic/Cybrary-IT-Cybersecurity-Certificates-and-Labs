@@ -1,5 +1,5 @@
-# Cybrary IT & Cybersecurity Foundations -Learn
-Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repository documents my progress, achievements, and reflections as I navigate the courses and pathways.
+#🚀 Cybrary IT & Cybersecurity Foundations Journey
+Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repository documents my progress, achievements, and reflections as I navigate through courses and hands-on labs.
 
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
 
@@ -31,59 +31,46 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 
 
-## Skills/Knowledge Gained
+#🎯 Skills & Knowledge Gained
+##🖥 Operating System & Security Basics
+✅ Windows & Linux CLI Basics
+✅ Group Policy & Active Directory
+✅ Vulnerability Scanning & Patching
+✅ Firewall & IDS Basics
+✅ Data Backup & Recovery
+✅ Threat Modeling & Risk Assessment
 
-### Operating System Fundamentals
-- Group Policy Basics
-- Windows CLI Basics
-- Linux CLI Basics
-- Windows File System Basics
-- Linux File System Basics
-- Windows Services
-- Active Directory Basics
+#🌍 Networking & Security
+✅ IP Addressing & Subnetting
+✅ Network Reference Models (OSI & TCP/IP)
+✅ VPNs & Secure Network Configurations
+✅ Wireshark & Nmap Basics
+✅ Network Troubleshooting
 
-### Cybersecurity Fundamentals
-- Cryptography Basics
-  - Symmetric Cryptography
-  - Asymmetric Cryptography
-  - Cryptographic Hash Functions
-- Patching Basics
-- Vulnerability Scanner Basics
-- Access Control Basics
-- IDS Basics
-- Firewall Basics
-- Data Backup and Recovery Basics
-- Antivirus Basics
--Threat Modeling
--Defensive Security and Cyber Risk
+#🛡 Cybersecurity & Defensive Operations
+✅ Incident Response & Threat Detection
+✅ Cryptography (Symmetric & Asymmetric, Hashing)
+✅ Least Privilege & Access Control
+✅ Security Architecture & Hardening
 
-### Network Fundamentals
-- Network Reference Models
-- Network Device Basics
-- IP Addressing Basics
-- Wireshark Basics
-- Nmap Basics
-- VPN Basics
-- Network Troubleshooting Basics
-  
-### Scripting and Programming Fundamentals
-- BASH Scripting Basics
-- PowerShell Basics
-- Python Basics
+#💻 Programming & Automation
+✅ Bash Scripting & PowerShell
+✅ Python for Security & Automation
 
+#🚀 My Learning Highlights
+🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
+🔹 Hands-On Experience – Working with real security tools and live environments.
+🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
+🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
 
-## Highlights of My Learning Journey
-- Learn, Practice, Prove: I've been actively developing and refining my skills through various courses, labs, challenges, and assessments. Each step has brought me closer to mastering the material, and I’m excited to see how I can apply these skills in real-world scenarios.
+#🤝 Why Cybrary?
+Cybrary’s interactive courses provide real-world cybersecurity training, equipping me with in-demand skills and preparing me for industry certifications.
 
-- Get Hands-On: Engaging with live operating systems and real security tools in Cybrary's on-demand lab environment has been a game changer for me. I love the opportunity to dive into practical experiences, which makes the learning process more enjoyable and impactful.
+This repository reflects my personal learning journey, highlighting my projects, certifications, and continuous growth in cybersecurity.
 
-- Measure My Progress: Keeping track of my skills development using the Cybrary Skills Tracker has been incredibly motivating. It allows me to see how far I’ve come and what areas I still want to tackle. I’m committed to continuous improvement and can’t wait to fill those gaps!
+#📌 Stay tuned for more updates!
 
-- Share My Achievements: Earning milestone badges from Cybrary and digital credentials from Credly has given me a sense of accomplishment. Each badge represents not just a skill learned but also the dedication and effort I’ve put into my learning journey.
-
-
-## Why Cybrary?
-Cybrary’s interactive courses will enable me to build real-world skills, providing tools and resources to address today’s cybersecurity challenges. From mastering fundamentals to preparing for certifications, Cybrary is pivotal in my growth.
+This update enhances readability, structure, and professionalism while making it visually appealing. Let me know if you want any refinements! 🚀
 
 ---
 
