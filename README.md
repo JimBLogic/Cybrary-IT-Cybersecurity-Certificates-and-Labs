@@ -5,7 +5,7 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 ## Certificates
 
-| Lab Name                           | Completion Date |
+| Coursae Name                           | Completion Date |
 | ----------------------------------- | --------------- |
 | [Vulnerability Scanner Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-threats-vulnerabilities-and-mitigations.pdf)  | 16/08/2024      |
 | [Cryptography Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-cryptography-basics.pdf)             | 15/10/2024      |
@@ -18,7 +18,7 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 | [Threat Modeling](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-threat-modeling.pdf)  | 10/02/2025      | 
 
 
-| Course Name                         | Completion Date |
+| Lab Name                         | Completion Date |
 | ----------------------------------- | --------------- |
 | [Security+: General Security Concepts](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Labs/cybrary-cert-security-general-security-concepts.pdf)             | 13/08/2024      |
 | [Security+: Threats, Vulnerabilities and Mitigations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Labs/cybrary-cert-vulnerability-scanner-basics.pdf)             | 13/08/2024      |
