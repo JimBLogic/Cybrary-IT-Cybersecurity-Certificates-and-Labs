@@ -40,35 +40,35 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 - ✅ Data Backup & Recovery
 - ✅ Threat Modeling & Risk Assessment
 
-# 🌍 Networking & Security
+## 🌍 Networking & Security
 - ✅ IP Addressing & Subnetting
 - ✅ Network Reference Models (OSI & TCP/IP)
 - ✅ VPNs & Secure Network Configurations
 - ✅ Wireshark & Nmap Basics
 - ✅ Network Troubleshooting
 
-# 🛡 Cybersecurity & Defensive Operations
+## 🛡 Cybersecurity & Defensive Operations
 - ✅ Incident Response & Threat Detection
 - ✅ Cryptography (Symmetric & Asymmetric, Hashing)
 - ✅ Least Privilege & Access Control
 - ✅ Security Architecture & Hardening
 
-# 💻 Programming & Automation
+## 💻 Programming & Automation
 - ✅ Bash Scripting & PowerShell
 - ✅ Python for Security & Automation
 
-# 🚀 My Learning Highlights
+## 🚀 My Learning Highlights
 - 🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
 - 🔹 Hands-On Experience – Working with real security tools and live environments.
 - 🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
 - 🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
 
-# 🤝 Why Cybrary?
+## 🤝 Why Cybrary?
 Cybrary’s interactive courses provide real-world cybersecurity training, equipping me with in-demand skills and preparing me for industry certifications.
 
 This repository reflects my personal learning journey, highlighting my projects, certifications, and continuous growth in cybersecurity.
 
-# 📌 Stay tuned for more updates!
+## 📌 Stay tuned for more updates!
 
 This update enhances readability, structure, and professionalism while making it visually appealing. Let me know if you want any refinements! 🚀
 
