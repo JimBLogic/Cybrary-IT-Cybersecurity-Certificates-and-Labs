@@ -33,35 +33,35 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 # 🎯 Skills & Knowledge Gained
 ## 🖥 Operating System & Security Basics
--✅ Windows & Linux CLI Basics
--✅ Group Policy & Active Directory
--✅ Vulnerability Scanning & Patching
--✅ Firewall & IDS Basics
--✅ Data Backup & Recovery
--✅ Threat Modeling & Risk Assessment
+- ✅ Windows & Linux CLI Basics
+- ✅ Group Policy & Active Directory
+- ✅ Vulnerability Scanning & Patching
+- ✅ Firewall & IDS Basics
+- ✅ Data Backup & Recovery
+- ✅ Threat Modeling & Risk Assessment
 
 # 🌍 Networking & Security
--✅ IP Addressing & Subnetting
--✅ Network Reference Models (OSI & TCP/IP)
--✅ VPNs & Secure Network Configurations
--✅ Wireshark & Nmap Basics
--✅ Network Troubleshooting
+- ✅ IP Addressing & Subnetting
+- ✅ Network Reference Models (OSI & TCP/IP)
+- ✅ VPNs & Secure Network Configurations
+- ✅ Wireshark & Nmap Basics
+- ✅ Network Troubleshooting
 
 # 🛡 Cybersecurity & Defensive Operations
--✅ Incident Response & Threat Detection
--✅ Cryptography (Symmetric & Asymmetric, Hashing)
--✅ Least Privilege & Access Control
--✅ Security Architecture & Hardening
+- ✅ Incident Response & Threat Detection
+- ✅ Cryptography (Symmetric & Asymmetric, Hashing)
+- ✅ Least Privilege & Access Control
+- ✅ Security Architecture & Hardening
 
 # 💻 Programming & Automation
--✅ Bash Scripting & PowerShell
--✅ Python for Security & Automation
+- ✅ Bash Scripting & PowerShell
+- ✅ Python for Security & Automation
 
 # 🚀 My Learning Highlights
--🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
--🔹 Hands-On Experience – Working with real security tools and live environments.
--🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
--🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
+- 🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
+- 🔹 Hands-On Experience – Working with real security tools and live environments.
+- 🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
+- 🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
 
 # 🤝 Why Cybrary?
 Cybrary’s interactive courses provide real-world cybersecurity training, equipping me with in-demand skills and preparing me for industry certifications.
