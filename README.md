@@ -1,4 +1,4 @@
-#🚀 Cybrary IT & Cybersecurity Foundations Journey
+# 🚀 Cybrary IT & Cybersecurity Foundations Journey
 Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repository documents my progress, achievements, and reflections as I navigate through courses and hands-on labs.
 
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/JimBLogic)
@@ -31,44 +31,44 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 
 
-#🎯 Skills & Knowledge Gained
-##🖥 Operating System & Security Basics
-✅ Windows & Linux CLI Basics
-✅ Group Policy & Active Directory
-✅ Vulnerability Scanning & Patching
-✅ Firewall & IDS Basics
-✅ Data Backup & Recovery
-✅ Threat Modeling & Risk Assessment
+# 🎯 Skills & Knowledge Gained
+## 🖥 Operating System & Security Basics
+-✅ Windows & Linux CLI Basics
+-✅ Group Policy & Active Directory
+-✅ Vulnerability Scanning & Patching
+-✅ Firewall & IDS Basics
+-✅ Data Backup & Recovery
+-✅ Threat Modeling & Risk Assessment
 
-#🌍 Networking & Security
-✅ IP Addressing & Subnetting
-✅ Network Reference Models (OSI & TCP/IP)
-✅ VPNs & Secure Network Configurations
-✅ Wireshark & Nmap Basics
-✅ Network Troubleshooting
+# 🌍 Networking & Security
+-✅ IP Addressing & Subnetting
+-✅ Network Reference Models (OSI & TCP/IP)
+-✅ VPNs & Secure Network Configurations
+-✅ Wireshark & Nmap Basics
+-✅ Network Troubleshooting
 
-#🛡 Cybersecurity & Defensive Operations
-✅ Incident Response & Threat Detection
-✅ Cryptography (Symmetric & Asymmetric, Hashing)
-✅ Least Privilege & Access Control
-✅ Security Architecture & Hardening
+# 🛡 Cybersecurity & Defensive Operations
+-✅ Incident Response & Threat Detection
+-✅ Cryptography (Symmetric & Asymmetric, Hashing)
+-✅ Least Privilege & Access Control
+-✅ Security Architecture & Hardening
 
-#💻 Programming & Automation
-✅ Bash Scripting & PowerShell
-✅ Python for Security & Automation
+# 💻 Programming & Automation
+-✅ Bash Scripting & PowerShell
+-✅ Python for Security & Automation
 
-#🚀 My Learning Highlights
-🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
-🔹 Hands-On Experience – Working with real security tools and live environments.
-🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
-🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
+# 🚀 My Learning Highlights
+-🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
+-🔹 Hands-On Experience – Working with real security tools and live environments.
+-🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
+-🔹 Sharing Achievements – Earning digital badges from Cybrary & Credly.
 
-#🤝 Why Cybrary?
+# 🤝 Why Cybrary?
 Cybrary’s interactive courses provide real-world cybersecurity training, equipping me with in-demand skills and preparing me for industry certifications.
 
 This repository reflects my personal learning journey, highlighting my projects, certifications, and continuous growth in cybersecurity.
 
-#📌 Stay tuned for more updates!
+# 📌 Stay tuned for more updates!
 
 This update enhances readability, structure, and professionalism while making it visually appealing. Let me know if you want any refinements! 🚀
 
