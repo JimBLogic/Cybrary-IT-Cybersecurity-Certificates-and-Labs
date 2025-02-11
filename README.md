@@ -16,7 +16,7 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 | [Access Control Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-access-control-basics.pdf)       | 01/08/2025      |
 | [Data Backup and Recovery Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-data-backup-and-recovery.pdf)  | 07/02/2025      |
 | [Threat Modeling](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-threat-modeling.pdf)  | 10/02/2025      | 
-| [Defensive Security and Cyber Risk](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-defensive-security-and-cyber-risk.pdf)  | 10/02/2025      | 
+
 
 | Course Name                         | Completion Date |
 | ----------------------------------- | --------------- |
@@ -24,8 +24,9 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 | [Security+: Threats, Vulnerabilities and Mitigations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-vulnerability-scanner-basics.pdf)             | 13/08/2024      |
 | [Security+: Security Architecture](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-architecture.pdf)                 | 19/08/2024      |
 | [Security+: Security Operations](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-operations.pdf)            | 18/09/2024      |
-| [Security+: Security Program Management and Oversight](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-program-management-and-oversight.pdf)           | 15/10/2025      |
-
+| [Security+: Security Program Management and Oversight](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-security-program-management-and-oversight.pdf)           | 15/10/2024      |
+| [Security+: Security Program Management and Oversight](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-defensive-security-operations.pdf)           | 07/02/2025      |
+| [Defensive Security and Cyber Risk](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations-Certificates/blob/main/Certificates/cybrary-cert-defensive-security-and-cyber-risk.pdf)  | 10/02/2025      | 
 
 
 
