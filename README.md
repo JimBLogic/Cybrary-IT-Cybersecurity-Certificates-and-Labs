@@ -53,6 +53,8 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 - Firewall Basics
 - Data Backup and Recovery Basics
 - Antivirus Basics
+-Threat Modeling
+-Defensive Security and Cyber Risk
 
 ### Network Fundamentals
 - Network Reference Models
