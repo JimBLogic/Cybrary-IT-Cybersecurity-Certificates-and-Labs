@@ -13,8 +13,8 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 | [Group Policy Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-group-policy-basics.pdf)             | 16/10/2024      |
 | [Cryptography Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-cryptography-basics.pdf)             | 15/10/2024      |
 | [Patching Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-patching-basics.pdf)                 | 15/10/2024      |
-| [Vulnerability Scanner Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-threats-vulnerabilities-and-mitigations.pdf)    | 16/08/2024      |
-
+| [Vulnerability Scanner Basics](https://github.com/JimBLogic/Cybrary-IT-and-Cybersecurity-Foundations--Certificates/blob/main/Certificates/cybrary-cert-security-threats-vulnerabilities-and-mitigations.pdf)   
+| [Data Backup and Recovery Basics]()  | 16/08/2024      |
 
 | Course Name                         | Completion Date |
 | ----------------------------------- | --------------- |
