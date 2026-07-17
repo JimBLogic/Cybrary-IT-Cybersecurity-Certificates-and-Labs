@@ -59,12 +59,12 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 ## 🚀 My Learning Highlights
 - 🔹 Learn, Practice, Prove – Engaging in courses, labs, and challenges to build practical skills.
-- 🔹 Hands-On Experience – Working with real security tools and live environments.
+- 🔹 Guided Practice – Working through platform labs and structured security exercises.
 - 🔹 Tracking Progress – Using Cybrary's Skills Tracker to measure growth.
 - 🔹 Preserving Evidence – Linking course and lab completion PDFs for direct review.
 
 ## 🤝 Why Cybrary?
-Cybrary’s interactive courses provide real-world cybersecurity training, equipping me with in-demand skills and preparing me for industry certifications.
+Cybrary’s interactive courses support my study of cybersecurity foundations and defensive concepts through guided training.
 
 This repository reflects my personal learning journey, highlighting my projects, certifications, and continuous growth in cybersecurity.
 
