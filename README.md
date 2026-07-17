@@ -68,13 +68,9 @@ Cybrary’s interactive courses provide real-world cybersecurity training, equip
 
 This repository reflects my personal learning journey, highlighting my projects, certifications, and continuous growth in cybersecurity.
 
-## 📌 Stay tuned for more updates!
+## Evidence Scope
 
-This update enhances readability, structure, and professionalism while making it visually appealing. Let me know if you want any refinements! 🚀
-
----
-
-_This README reflects my personal learning journey, highlighting projects and certifications._
+This repository contains course and lab completion PDFs. It documents personal training progress and does not include course solutions or claim professional cybersecurity experience.
 
 
 
