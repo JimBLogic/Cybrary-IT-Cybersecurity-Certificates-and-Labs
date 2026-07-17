@@ -31,8 +31,8 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 
 
 
-# 🎯 Skills & Knowledge Gained
-## 🖥 Operating System & Security Basics
+## 🎯 Skills & Knowledge Gained
+### 🖥 Operating System & Security Basics
 - ✅ Windows & Linux CLI Basics
 - ✅ Group Policy & Active Directory
 - ✅ Vulnerability Scanning & Patching
@@ -40,20 +40,20 @@ Welcome to my Cybrary IT & Cybersecurity Foundations learning journey! This repo
 - ✅ Data Backup & Recovery
 - ✅ Threat Modeling & Risk Assessment
 
-## 🌍 Networking & Security
+### 🌍 Networking & Security
 - ✅ IP Addressing & Subnetting
 - ✅ Network Reference Models (OSI & TCP/IP)
 - ✅ VPNs & Secure Network Configurations
 - ✅ Wireshark & Nmap Basics
 - ✅ Network Troubleshooting
 
-## 🛡 Cybersecurity & Defensive Operations
+### 🛡 Cybersecurity & Defensive Operations
 - ✅ Incident Response & Threat Detection
 - ✅ Cryptography (Symmetric & Asymmetric, Hashing)
 - ✅ Least Privilege & Access Control
 - ✅ Security Architecture & Hardening
 
-## 💻 Programming & Automation
+### 💻 Programming & Automation
 - ✅ Bash Scripting & PowerShell
 - ✅ Python for Security & Automation
 
