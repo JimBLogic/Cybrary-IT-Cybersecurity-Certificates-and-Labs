@@ -72,5 +72,9 @@ This repository reflects my personal learning journey, highlighting my projects,
 
 This repository contains course and lab completion PDFs. It documents personal training progress and does not include course solutions or claim professional cybersecurity experience.
 
+## Related Portfolio
+
+[View the full certifications and learning journey](https://jimblogic.github.io/#certifications).
+
 
 
