@@ -29,7 +29,8 @@ class EvidenceTests(unittest.TestCase):
     def test_all_sixteen_claimed_certificate_and_lab_paths_exist(self):
         self.assertEqual(len(ROWS), sum(EXPECTED.values()))
         counts = {key: 0 for key in EXPECTED}
-        for raw, category, _ in ROWS:
+        for raw, _ in ROWS:
+            category = Path(unquote(raw)).parts[0]
             target = checked_path(raw)
             self.assertTrue(target.is_file(), f"Missing evidence path: {raw}")
             self.assertEqual(target.suffix.lower(), ".pdf")
@@ -47,13 +48,13 @@ class EvidenceTests(unittest.TestCase):
         self.assertFalse(claimed - pdfs)
 
     def test_dates_are_iso_calendar_dates_not_future_dated(self):
-        for path, _, date_text in ROWS:
+        for path, date_text in ROWS:
             completed = date.fromisoformat(date_text)
             self.assertLessEqual(completed, date(2026, 10, 16), path)
-        self.assertEqual(len(set(path for path, _, _ in ROWS)), len(ROWS))
+        self.assertEqual(len(set(path for path, _ in ROWS)), len(ROWS))
 
     def test_public_claim_and_ci_permissions_remain_scoped(self):
-        self.assertIn("does not imply", README)
+        self.assertIn("do not imply", README)
         self.assertIn("does not include course solutions", README)
         workflow = (ROOT / ".github/workflows/evidence-links.yml").read_text(encoding="utf-8")
         self.assertIn("contents: read", workflow)
