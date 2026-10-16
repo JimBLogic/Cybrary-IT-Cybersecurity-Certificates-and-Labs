@@ -70,7 +70,9 @@ This repository reflects my personal learning journey, highlighting my projects,
 
 ## Evidence Scope
 
-This repository contains course and lab completion PDFs. It documents personal training progress and does not include course solutions or claim professional cybersecurity experience.
+This repository contains course and lab completion PDFs. It documents personal training progress and does not include course solutions or claim professional cybersecurity experience. **Cybrary's “Security+” module titles here do not imply that I hold a CompTIA Security+ certification.** The existence of a PDF and the date listed in this README are different from independent validation of the credential or of professional performance.
+
+The read-only [evidence integrity check](.github/workflows/evidence-links.yml) verifies file paths, catalogue counts and date formatting. It does not read, publish, alter or attest to the authenticity of the certificate PDFs.
 
 ## Related Portfolio
 
